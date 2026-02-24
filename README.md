@@ -146,8 +146,8 @@
   
   <tr>
     <td>ماريه</td>
-    <td>اكتب الدور</td>
-    <td>اكتب اسم الفرع</td>
+    <td>المرحلة الأولى + تصميم الملصق</td>
+    <td>feature/lead-structure</td>
   </tr>
   
   <tr>

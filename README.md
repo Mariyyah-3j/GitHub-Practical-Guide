@@ -153,7 +153,7 @@
   <tلهr>
     <td>جمانه</td>
     <td> تجهيز المرحله الثالثه</td>
-    <td>feature/git-local-workflowله</td>
+    <td>feature/git-local-workflow</td>
   </tr>
   
   <tr>

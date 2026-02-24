@@ -150,10 +150,10 @@
     <td>feature/lead-structure</td>
   </tr>
   
-  <tr>
+  <tلهr>
     <td>جمانه</td>
     <td> تجهيز المرحله الثالثه</td>
-    <td>اكتب اسم الفرع</td>
+    <td>feature/git-local-workflowله</td>
   </tr>
   
   <tr>

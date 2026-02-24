@@ -157,9 +157,9 @@
   </tr>
   
   <tr>
-    <td>اكتب الاسم</td>
-    <td>اكتب الدور</td>
-    <td>اكتب اسم الفرع</td>
+    <td> اسما كاشغرلي</td>
+    <td>تجهيز محتوى المرحلة الرابعة </td>
+    <td>feature/github-setup-presence </td>
   </tr>
   
   <tr>

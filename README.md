@@ -150,7 +150,7 @@
     <td>feature/lead-structure</td>
   </tr>
   
-  <tلهr>
+  <tr>
     <td>جمانه</td>
     <td> تجهيز المرحله الثالثه</td>
     <td>feature/git-local-workflow</td>

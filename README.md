@@ -162,10 +162,10 @@
     <td>feature/github-setup-presence </td>
   </tr>
   
-  <tr>
-    <td>اكتب الاسم</td>
-    <td>اكتب الدور</td>
-    <td>اكتب اسم الفرع</td>
+ <tr>
+    <td>شذى الحربي</td>
+    <td>تجهيز محتوى المرحلة الخامسة </td>
+    <td>feature/collapration-open-source</td>
   </tr>
   
   <tr>

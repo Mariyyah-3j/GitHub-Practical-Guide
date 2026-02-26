@@ -97,14 +97,85 @@ GitHub هو منصة على الإنترنت تخزن مشاريع Git.
 
 في هذه المرحلة يتم:
 
-- إنشاء حساب على GitHub
-- إنشاء Repository خاص
-- ربط المشروع المحلي بـ GitHub
-- رفع المشروع باستخدام `git push`
-- فهم Profile README
-- إنشاء واجهة احترافية للحساب
-- التعرف على Stars و Gist
-- فهم Projects و Organizations و Codespaces
+1️⃣ إنشاء حساب على GitHub
+- ادخل موقع:
+  👉 https://github.com
+- اضغط Sign up
+- أنشئ حسابك باستخدام: Email
+
+وبكذا صار عندك حساب GitHub.
+
+2️⃣ إنشاء Repository خاص (Private Repo)
+  Repository = هو مكان تحفظ فيه مشروعك.
+
+- اضغط New repository
+- اكتب اسم المشروع
+- اختر:
+✅ Private (خاص)
+- اضغط على Create repository
+
+3️⃣ ربط المشروع المحلي بـ GitHub
+- افتح الـTerminal داخل مشروعك في vscode واكتب:
+  git init
+  git add .
+  git commit -m "first commit"
+- اربط المشروع مع GitHub بنسخ الرابط من GitHub:
+  git remote add origin https://github.com/USERNAME/REPO.git
+
+4️⃣ رفع المشروع (git push)
+اكتب في الـTerminal:
+  git branch -M main
+  git push -u origin main
+🎉 وبكذا تم رفع المشروع على GitHub.
+
+5️⃣ ما هو Profile README ؟
+  هو ملف يظهر في الصفحة الرئيسية لحسابك.
+
+- لإنشائه:
+أنشئ Repository بنفس اسم حسابك، مثل:
+  username/username
+-ثم أضف ملف: README.md
+-ضع فيه:
+نبذة عنك
+مهاراتك
+مشاريعك
+طرق التواصل
+
+6️⃣ لإنشاء واجهة احترافية للحساب
+أضف في README:
+👨‍💻 من أنا
+🛠️ التقنيات
+🚀 المشاريع
+📫 التواصل
+
+مثال:
+  # Hi 👋 I'm Mohammad
+  Frontend Developer
+  Drupal Developer
+
+7️⃣ ايش هم Stars ⭐ و Gists 📌
+
+⭐ Stars
+إعجاب بالمشاريع المفيدة لحفظها والرجوع اليهم لاحقًا.
+
+📌 Gist
+مكان لحفظ:
+أكواد صغيرة
+ملاحظات
+Snippets
+والأشياء الي تعلمتها
+
+  👉 https://gist.github.com
+
+8️⃣ فهم Projects و Organizations و Codespaces
+📋 Projects
+إدارة المهام مثل Trello داخل GitHub.
+
+👥 Organizations
+فريق عمل أو شركة على GitHub.
+
+💻 Codespaces
+تشغيل بيئة تطوير كاملة من المتصفح بدون تثبيت.
 
 🎯 الهدف من هذه المرحلة:
 بناء حضور احترافي على GitHub.

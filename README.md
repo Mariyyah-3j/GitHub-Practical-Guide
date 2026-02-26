@@ -271,9 +271,9 @@ GitHub هو منصة على الإنترنت تخزن مشاريع Git.
   </tr>
   
   <tr>
-    <td>اكتب الاسم</td>
-    <td>اكتب الدور</td>
-    <td>اكتب اسم الفرع</td>
+    <td>شيهانة اللحياني</td>
+    <td>تجهيز محتوى المرحلة الثانية</td>
+    <td>feature/version-control-basics</td>
   </tr>
 </table>
 

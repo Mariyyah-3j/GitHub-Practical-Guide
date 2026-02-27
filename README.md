@@ -241,9 +241,7 @@ GitHub هو منصة على الإنترنت تخزن مشاريع Git.
 
 # 🏆 الكنز: Git & GitHub Quick Reference
 
-<p align="center">
-  <img src="assets/Ggit-github-quick-reference-header.png" width="100%">
-</p>
+![Git & GitHub Quick Reference](assets/git-github-quick-reference-header.png)
 
 بعد إتمام الرحلة التعليمية كاملة…  
 تصل إلى الكنز 🎁

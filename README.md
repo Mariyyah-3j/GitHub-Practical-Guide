@@ -61,12 +61,11 @@
 
 ### أهم الأوامر الأساسية:
 
-```bash
 pwd        # يعرض المسار الحالي
 ls         # يعرض محتويات المجلد
 cd folder  # الانتقال إلى مجلد معين
 cd ..      # الرجوع خطوة للخلف
-
+ 
 ---
 
 # 🔵 المرحلة الثانية: فهم Version Control
@@ -330,7 +329,7 @@ Snippets
 
 # 🏆 الكنز: Git & GitHub Quick Reference
 
-![Git & GitHub Quick Reference](assets/Ggit-github-quick-reference-header.png)
+![Git & GitHub Quick Reference](assets/git-github-quick-reference-header.png)
 
 بعد إتمام الرحلة التعليمية كاملة…  
 تصل إلى الكنز 🎁

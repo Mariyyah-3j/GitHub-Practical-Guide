@@ -460,45 +460,39 @@ Drupal Developer
 
 <div align="center">
 
-<table>
-<tr>
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:40px;">
 
-<td align="center" width="250px">
+<div align="center" width="220">
 
-<img src="https://github.com/jumana12345-12.png" width="80px" style="border-radius:50%" />
+<img src="https://github.com/jumana12345-12.png" width="80" style="border-radius:50%">
 
 ### جمانه الشريف
-
 تجهيز محتوى  
 المرحلة الثالثة.
 
 🔗  
 <a href="https://github.com/jumana12345-12">GitHub Profile</a>
 
-</td>
+</div>
 
+<div align="center" width="220">
 
-<td align="center" width="250px">
-
-<img src="https://github.com/shehana1.png" width="80px" style="border-radius:50%" />
+<img src="https://github.com/shehana1.png" width="80" style="border-radius:50%">
 
 ### شيهانة اللحياني
-
 تجهيز محتوى  
 المرحلة الثانية.
 
 🔗  
 <a href="https://github.com/shehana1">GitHub Profile</a>
 
-</td>
+</div>
 
+<div align="center" width="220">
 
-<td align="center" width="250px">
-
-<img src="https://github.com/Mariyyah-3j.png" width="80px" style="border-radius:50%" />
+<img src="https://github.com/Mariyyah-3j.png" width="80" style="border-radius:50%">
 
 ### ماريه الجحدلي
-
 التوجيه، التنسيق  
 محتوى المرحلة الأولى،  
 الكنز وتصميم الملصق.
@@ -506,42 +500,34 @@ Drupal Developer
 🔗  
 <a href="https://github.com/Mariyyah-3j">GitHub Profile</a>
 
-</td>
+</div>
 
-</tr>
+<div align="center" width="220">
 
-<tr>
-
-<td align="center" width="250px">
-
-<img src="https://github.com/ShathaAlharbi771.png" width="80px" style="border-radius:50%" />
+<img src="https://github.com/ShathaAlharbi771.png" width="80" style="border-radius:50%">
 
 ### شذى الحربي
-
 تجهيز محتوى  
 المرحلة الخامسة.
 
 🔗  
 <a href="https://github.com/ShathaAlharbi771">GitHub Profile</a>
 
-</td>
+</div>
 
-<td align="center" width="250px">
+<div align="center" width="220">
 
-<img src="https://github.com/EsmaMiSK.png" width="80px" style="border-radius:50%" />
+<img src="https://github.com/EsmaMiSK.png" width="80" style="border-radius:50%">
 
 ### اسما كاشغرلي
-
 تجهيز محتوى  
 المرحلة الرابعة.
 
 🔗  
 <a href="https://github.com/EsmaMiSK">GitHub Profile</a>
 
-</td>
+</div>
 
-</tr>
-
-</table>
+</div>
 
 </div>

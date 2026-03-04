@@ -457,40 +457,91 @@ Drupal Developer
 ---
 
 # 👥 أعضاء الفريق
-<table dir="rtl">
-  <tr>
-    <th>الاسم</th>
-    <th>الدور</th>
-    <th>اسم الفرع</th>
-  </tr>
-  
-  <tr>
-    <td>ماريه الجحدلي</td>
-    <td>المرحلة الأولى + تصميم الملصق</td>
-    <td>feature/lead-structure</td>
-  </tr>
-  
-  <tr>
-    <td>جمانه الشريف</td>
-    <td> تجهيز المرحله الثالثه</td>
-    <td>feature/git-local-workflow</td>
-  </tr>
-  
-  <tr>
-    <td> اسما كاشغرلي</td>
-    <td>تجهيز محتوى المرحلة الرابعة </td>
-    <td>feature/github-setup-presence </td>
-  </tr>
-  
- <tr>
-    <td>شذى الحربي</td>
-    <td>تجهيز محتوى المرحلة الخامسة </td>
-    <td>feature/collapration-open-source</td>
-  </tr>
-  
-  <tr>
-    <td>شيهانة اللحياني</td>
-    <td>تجهيز محتوى المرحلة الثانية</td>
-    <td>feature/version-control-basics</td>
-  </tr>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="250px">
+
+<img src="https://github.com/jumana12345-12.png" width="80px" style="border-radius:50%" />
+
+### جمانه الشريف
+
+تجهيز محتوى  
+المرحلة الثالثة.
+
+🔗  
+<a href="https://github.com/jumana12345-12">GitHub Profile</a>
+
+</td>
+
+
+<td align="center" width="250px">
+
+<img src="https://github.com/shehana1.png" width="80px" style="border-radius:50%" />
+
+### شيهانة اللحياني
+
+تجهيز محتوى  
+المرحلة الثانية.
+
+🔗  
+<a href="https://github.com/shehana1">GitHub Profile</a>
+
+</td>
+
+
+<td align="center" width="250px">
+
+<img src="https://github.com/Mariyyah-3j.png" width="80px" style="border-radius:50%" />
+
+### ماريه الجحدلي
+
+التوجيه، التنسيق  
+محتوى المرحلة الأولى،  
+الكنز وتصميم الملصق.
+
+🔗  
+<a href="https://github.com/Mariyyah-3j">GitHub Profile</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="250px">
+
+<img src="https://github.com/ShathaAlharbi771.png" width="80px" style="border-radius:50%" />
+
+### شذى الحربي
+
+تجهيز محتوى  
+المرحلة الخامسة.
+
+🔗  
+<a href="https://github.com/ShathaAlharbi771">GitHub Profile</a>
+
+</td>
+
+<td align="center" width="250px">
+
+<img src="https://github.com/EsmaMiSK.png" width="80px" style="border-radius:50%" />
+
+### اسما كاشغرلي
+
+تجهيز محتوى  
+المرحلة الرابعة.
+
+🔗  
+<a href="https://github.com/EsmaMiSK">GitHub Profile</a>
+
+</td>
+
+</tr>
+
 </table>
+
+</div>
